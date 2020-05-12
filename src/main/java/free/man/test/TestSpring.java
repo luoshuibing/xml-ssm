@@ -15,4 +15,9 @@ public class TestSpring {
         as.findAll();
     }
 
+    @Test
+    public void run2(){
+        System.out.println("");
+    }
+
 }
